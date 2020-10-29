@@ -5,3 +5,5 @@ Ele mede os campos magnéticos e assim consegue dizer para qual lado está o nor
 
 O link do vídeo para ver ele em funcionamento
 https://drive.google.com/file/d/1IogO51_46lRYDP0T30TGENnP7WvRclgj/view?usp=sharing
+
+Alessandro Gabriel e Thiago Fernandes
