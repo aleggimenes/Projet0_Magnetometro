@@ -4,4 +4,4 @@ O Magnetômetro é um dos sensores responsáveis por identificar onde o seu smat
 Ele mede os campos magnéticos e assim consegue dizer para qual lado está o norte, ao diferenciar sua tensão de saída para o ceuluar.
 
 O link do vídeo para ver ele em funcionamento
-https://drive.google.com/file/d/1IogO51_46lRYDP0T30TGENnP7WvRclgj/view?usp=sharing
+https://github.com/aleggimenes/Projeto_Magnetometro.git
